@@ -5,4 +5,11 @@
 * validation
 * calculate age in days
 * display result
+
+
+#### issues I'd like to fix
+
+* age input allows negative numbers
+* name can be a number
+* style the output container
   
