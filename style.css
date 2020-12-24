@@ -27,7 +27,7 @@ body {
 }
 
 .content {
-  max-width: 1000px;
+  max-width: 600px;
   margin: 50px auto;
 }
 
@@ -49,6 +49,8 @@ form {
   text-align: center;
   background-color: #F6DE1C;
   padding: 50px;
+  width: 400px;
+  margin: 20px auto;
 }
 
 .input_1 {
@@ -65,5 +67,5 @@ form {
   text-align: center;
   padding: 50px;
   border-radius: 5px;
-  margin-top: 20px;
+  margin: 20px 0;
 }
